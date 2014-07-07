@@ -1,0 +1,13 @@
+North Dallas Forty Mo1
+July 30, 2012
+
+
+Based on the font used on the title of the 1979 movie North Dallas Forty.This font is a production of Mindofone Fonts for your personal enjoyment.
+
+The ligatures are available as Open Type feature. The ligatures are:
+ 
+  Standard (LIGA): fi fl AE OE ae oe
+  Others (DLIG): LA TY North Dallas Forty
+ 
+For fi fl AE OE ae oe LA TY, all possible combinations are covered -- all UC, all LC, UC-LC and LC-UC. For 'North', 'Dallas' and 'Forty' ligatures will only replace all UC, all LC and title case.
+ 

@@ -1,0 +1,81 @@
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+= A GreyWolf WebWorks Free Font =+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+ "Echo Deco" © Rich Gast +=+=+=+=+=+=+=+=+=+=+=+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+"Chain Letter" is the 10th free font from Rich Gast. 
+
+It was originally created on 06/14/98.
+
+Version 2.0 was completed on 8/01/99. This version both updates the
+copyright information from DarkSide Productions to GreyWolf WebWorks
+and makes the font embeddable.
+
+GreyWolf WebWorks Free Fonts (and versions previously released as
+DarkSide's Free Fonts) are FREE for personal use. They do, however,
+remain the copyrighted property of Rich Gast and GreyWolf WebWorks.
+They are not in the public domain.
+
+Commercial use in any manner, including (but not limited to) use in
+product, service or corporate logo design, inclusion in any software,
+archive, collection or library for distribution to the public which
+either directly or indirectly generates income for the distributor
+requires written permission from the author and copyright holder,
+who is specifically identified as:
+
+Richard Gast
+5818 Prophet's Rock Road
+West Lafayette, IN 47906
+e-mail: greywolfwebworks@comcast.net
+Web Site: http://home.comcast.net/~greywolfwebworks
+
+Commercial ventures granted permission to include any GreyWolf Free
+Font in their software, archive, library or collection will, if they
+so request, be provided with new font files at no charge in which the
+version specifically identifies them as a licensed user. In this
+manner, the author and copyright holder of the fonts can best retain
+control of the type of product/company with which his fonts are to be
+associated.
+
+Commercial ventures who include any GreyWolf Free Font in any manner
+described above without receiving written permission from the author
+and copyright holder will be subject to any and all legal remedies
+available to the copyright holder.
+
+All GreyWolf Free Fonts may be redistributed via FREE web sites,
+e-mail, newsgroups and bulletin boards, as long as the original zip
+file is kept intact and unaltered, including the accompanying text
+file(s). If you wish to include them on a free web site, please just
+ask in advance.
+
+NOTE TO PERSONAL USERS: Maybe, just maybe, you'll make a fortune using
+this font in some manner. If you do, all I ask is that you remember me
+with a token of your appreciation. Any modest amount (at least $1 and
+not to exceed $1,000,000) would be an appropriate gesture for my
+contribution to your monumental financial success. Hey! I can dream!
+
+WARRANTY
+No warranty is either expressed or implied for this software product
+by GreyWolf WebWorks. This software product and related documentation
+are provided "as is" without warranty of any kind including, but not
+limited to, implied warranties of merchantability, fitness for a given
+purpose, or noninfringement. The entire risk arising from use of the
+software product remains with you, the user.
+
+LIABILITY FOR DAMAGES. In no event shall GreyWolf WebWorks be liable
+for any damages whatsoever (including, but not limited to, damages
+for loss of business profits, business interruption, loss of business
+information, or any other pecuniary loss) arising from the use of or
+inability to use this product, even if GreyWolf WebWorks has been
+advised of the possibility of such damages.
+
+The character set includes:
+
+Upper and lower case letters are all CAPS.
+Numbers and most characters of punctuation.
+Note: The keystroke ^ is the letter T with special spacing
+      for use when the T is to be followed by an A (TA).
+
+..... Rich Gast
+GreyWolf WebWorks

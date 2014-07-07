@@ -1,0 +1,9 @@
+Arenq Font
+
+Hi, thanks for downloading my font Arenq and I hope you like it. Remember: it's free for personal and commercial use! Hey, like me on Facebook: https://www.facebook.com/Skomii.PauloR to know more about me and what I'm doing.
+
+* This font has Stilystic Alternates that you can use in programs like Photoshop, Illustrator, InDesign and many others...
+
+If you like the font a lot, you can make a donation of any value, just to make me smile and know I did something great.
+
+The font Arenq was designed by Paulo R in 2014.

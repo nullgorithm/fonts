@@ -1,0 +1,74 @@
+The Fontspring Desktop Font End User License Agreement
+Version 1.3.0 - October 10, 2012
+
+By downloading and/or installing the licensed font software from Fontspring (“Font”), the purchaser or designated licensee (“Licensee”) agrees to be bound by the terms of this end user license agreement (“EULA”). This EULA, in conjunction with the receipt (“Receipt”) that accompanies each purchase from Fontspring or its distributors, constitutes the complete agreement (“Agreement”) between the Licensee and Fontspring.
+
+This Agreement allows for using the Font  with the following rights, requirements and restrictions:
+
+1. Rights
+a. Licensee may use the Font to create graphics for display on any surface including computer screens, television screens, paper, t-shirts or any other surface where the image will be a fixed size.
+b. Licensee may embed or link the Font in accordance with the rules described in Section 4 “Embedding and Linking” of this EULA.
+
+2. Requirements/Restrictions
+a. Products
+Licensee may not use the Font to create alphabet or letterform products for resale where the product consists of individual letterforms, including rubber stamps, die-cut products, stencil products, or adhesive sticker alphabet products where the likeness of the Font can be reproduced and the end-user of said products can create their own typesetting. An extended license may be available for an additional fee.
+
+Licensee may create typographic products using the Font if the product consists of commonly recognized words or phrases. For example: a rubber stamp that has the words "Thank You" or a sticker that says "Great!"
+
+b. Dingbats and Illustrations
+Licensee may NOT use illustrations or images in the Font OTHER THAN letterforms, numbers, punctuation marks, diacritics, etc., in a manner where the illustration or image becomes the primary aspect of a product for resale. For example, a dingbat image in the font can not be the sole design element on a coffee cup, t-shirt, greeting card, etc., intended for resale. An extended license may be available for an additional fee.
+
+c. Users
+The Font may be simultaneously used by no more than the number of users specified in the Receipt. All users must be located in the same geographic location except for temporary use by third parties as described in Section 3 “Third Parties and Transferability” of this EULA.
+
+3. Third Parties and Transferability 
+Licensee may temporarily provide the Font to a graphic designer, printer or other agent who is working on behalf of the Licensee, only if they agree to use the Font exclusively for Licensee’s work, agree to the terms of this Agreement, and retain no copies of the Font upon completion of the work.
+
+Licensee may not otherwise distribute the Font to third parties or make the Font publicly accessible except by embedding or linking in accordance with this EULA.
+
+4. Embedding and Linking
+a. Adobe Portable Document Format ("PDF") Embedding
+Licensee may embed the Font into any read-only PDF Licensee sends to third parties. Such documents may only be viewable and printable (but not editable) by the recipients. 
+
+b. Flash and Silverlight Embedding
+Licensee may embed the Font into Flash or Silverlight with the following restrictions:
+	1. The Font must be subset to include only the glyphs necessary for displaying the work.
+	2. The text rendered in the Font must not be manipulatable by an end user.
+	3. All care must be taken to prevent unauthorized users from accessing the Font.
+
+c. @font-face Cascading Style Sheet ("CSS") Linking
+Licensee may not link the Font to web sites using the @font-face selector in CSS. An extended license may be available for an additional fee.
+
+d. Other Web Site Linking
+Licensee may not convert or embed the Font with any other technology. This includes Javascript methods such as Cufón and Typeface.js.
+
+5. Terms
+Rights granted by this Agreement are perpetual. Fontspring will not charge additional fees post purchase, annually or otherwise.
+
+6. Other Usage
+Licenses for @font-face embedding, computer applications and games, installable interactive books, software, mobile applications and games, Ebooks and Epubs, product creation websites, website template distribution, website templates, and other uses not allowed by this Agreement may be available for an additional fee. Contact Fontspring at support@fontspring.com for more information.
+
+7. Modifications
+Licensee may import and alter the bezier outlines of the Font in a drawing program.
+
+Licensee may not modify the Font or create derivative works based on the Font without prior written consent from Fontspring or the owning foundry except to generate computer files necessary for embedding or linking in accordance with this Agreement.
+
+8. Copyright
+Licensee agrees that the Font is the exclusive property of the owning foundry and is protected by copyright and intellectual property laws. Licensee may be held legally responsible for any infringements on the foundry's rights caused by failure to abide by the terms of this Agreement.
+
+9. Termination
+Licensee agrees that the Agreement shall automatically terminate, without notice from Fontspring or the owning foundry, if Licensee fails to comply with any provision contained herein. 
+
+10. Disclaimer and Limited Warranty
+Fontspring warrants the Product to be free from defects in materials and workmanship under normal use for a period of twenty one (21) days from the date of delivery as shown on Receipt. Fontspring's entire liability and Licensee’s exclusive remedy as to a defective product shall be, at Fontspring's option, either return of purchase price or replacement of any such product that is returned to Fontspring with a copy of the invoice. Fontspring shall have no responsibility to replace the product or refund the purchase price if failure results from accident, abuse or misapplication, or if any product is lost or damaged due to theft, fire, or negligence. Any replacement product will be warranted for twenty one (21) days. This warranty gives Licensee specific legal rights. Licensee may have other rights, which vary from state to state.
+
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE PRODUCT, IS PROVIDED “AS IS”. FONTSPRING MAKES NO WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The entire risk as to the quality and performance of the Product rests upon Licensee. Neither Fontspring nor the Foundry warrants that the functions contained in the Product will meet Licensee’s requirements or that the operation of the software will be uninterrupted or error free.
+
+FONTSPRING SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FROM LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE PRODUCT EVEN IF Fontspring OR THE FOUNDRY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to Licensee.
+
+11. Governing Law
+This Agreement is governed by the laws of the United States of America and the State of Delaware.

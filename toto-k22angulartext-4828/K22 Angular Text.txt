@@ -1,0 +1,34 @@
+K22 Angular Text should not be included in internet font archives without my
+expressed permission. Email me if you want to add K22 Angular Text to your
+site. However, Fonts2U should not bother asking as I am not allowing my
+fonts to be hosted by that site. If you see K22 Angular Text, or any of my
+fonts, on that site means that Fonts2U has no respect for creators of fonts.
+
+K22 Angular Text is free for personal, non-commercial use. Email me if you 
+want to use this font commercially and let me know how you are going to use 
+the font.
+
+If I happen to know you by another name from somewhere, it would help a lot
+if you will let me know about it.
+
+Toto
+toto@ispx.com.ph
+to22to@gmail.com
+June 26, 2012
+
+====================
+Font Notes:
+
+The font has two end ornaments, actually only one ornament but positioned 
+differently, located in the:
+
++ right bracket ( "]" ) for lowercase letters b, c, e, o, p, s, v and w
++ left bracket ( "[" ) for the rest of the lowercase (except for "r" and 
+"t"), and can also be used for all uppercase
+
+Both ornaments are off-centered for letters "r" and "t" so I included a 
+terminal "r" in the left brace ( "{" ) and a terminal "t" in the right brace 
+( "}" ) with a properly aligned ornament. 
+
+====================
+

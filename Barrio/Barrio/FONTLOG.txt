@@ -1,0 +1,30 @@
+FONTLOG for Barrio font
+
+This file provides detailed information on the Barrio Font Software.
+This information should be distributed along with the Barrio Font and any derivative works.
+
+Basic Font Information
+
+Barrio is a typeface family that supports Unicode language range: Latin-1 Supplement, Latin Extended-A
+
+To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
+
+ChangeLog
+
+08 Jun 2013 (Sergio Jiménez & Pablo Cosgaya) Barrio Font v1.002. Initial Release
+- Initial release under SIL Open Font License
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Sergio Jiménez
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Designer
+
+N: Pablo Cosgaya
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Designer

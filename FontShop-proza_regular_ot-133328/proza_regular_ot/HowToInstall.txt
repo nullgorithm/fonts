@@ -1,0 +1,7 @@
+Mac OSX:
+Use the application FontBook or some other font management application to install the fonts. 
+
+Windows:
+Start > Control Panel > Fonts. Click on File > Install new fonts.
+
+If you're having difficulty installing the fonts, use the contact form on bureauroffa.com/contact

@@ -1,0 +1,23 @@
+K22 Spotty Face should not be included in internet font archives without
+my expressed permission. Email me if you want to add K22 Spotty Face to
+your site. However, Fonts2U should not bother asking as I am not allowing my
+fonts to be hosted by that site. If you see K22 Spotty Face, or any of my
+fonts, on that site means that Fonts2U has no respect for creators of fonts.
+
+K22 Spotty Face is free for personal, non-commercial use. Email if you
+want to use this font commercially and let me know how you are going to use
+the font.
+
+Toto
+toto@ispx.com.ph
+to22to@gmail.com
+June 28, 2012
+
+Revision History:
++ Version 1.1 February 22, 2012
+  - corrected the alignment of Inverted Question Mark
+  - adjusted the leg of the R
++ Version 1.2 June 28, 2012
+  - corrected the left brace which showed a problem in the Open Type font.
+  - added Cyrillic (Basic Russian Alphabet) at the request of Maria S.
+- End -------------------------------------------------------------- 

@@ -1,0 +1,42 @@
+Gapstown AH
+
+The only excuse I have for making yet another hand printing
+font is that I couldn't stand the sight of Comic Sans (TM) any
+more.
+
+Most of the free alternatives I know are too wacky, too artsy,
+"individual" or specialized, however you put it, to print
+bulk text. I was looking for something lively, not so accurate
+as Comic Sans, that still looks good when printing many lines
+of text, so it required some evenness of characters and spacing,
+too.
+
+Gapstown contains a full ISO 8859-1 character set, you can
+write most western European languages with it. 193 manually
+edited kerning pairs add to the quality of this font.
+
+
+Conditions of use
+
+You may use this font for personal private as well as commercial
+purposes free of charge. You may not own it or sell it.
+
+You may pass it on as long as you
+- do not charge any money for it
+- pass it on together with this readme file Gapstown.txt
+  (best to pass on the zip file containing both font and text)
+
+You may put it on your website under the same conditions.
+Please send me a mail if you do so.
+
+You may even alter this font or make variations of it, but
+you are not permitted to pass those on or publish them
+without my consent.
+
+If you have any questions about this send me a mail. You
+can reach me here:
+
+http://www.fontgrube.gmxhome.de
+mail: fontgrube@loop.de
+
+Andreas Höfeld, Fontgrube

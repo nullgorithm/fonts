@@ -1,0 +1,38 @@
+{\rtf1\mac\ansicpg10000\cocoartf102
+{\fonttbl\f0\fnil\fcharset77 Geneva;\f1\fswiss\fcharset77 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww12040\viewh15660\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f0\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
+\cf0 {{\NeXTGraphic __RES1000__.pict \width9820 \height6980
+}¬}\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
+
+\f0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural
+
+\f1 \cf0 Bubbleman-FW \'a998-04 Brain Eaters Font Co./Brad O. Nelson\
+\
+Price of this Type Font\
+This Bubbleman-FW - FreeWare font is free to use in any private, recreational manner. You may use this font for your own personal website or communications, personal design work you might do for a friend, such as invite, scrapbooks, personal CD covers etc.\
+\
+But, if you plan to use this font in a commercial manner that you will get paid for, or if you are using it for product packaging for other promotional materials printed or online, etc., you must purchase a commercially licensed version of this font which can be purchased at www.braineaters.com Secure online ordering.\
+\
+The commericial version of Bubbleman-CV includes the Postscript version of this font, PLUS extra characters missing from the Freeware version.\
+\
+If you plan to use this font for any form of television broadcast or motion picture titling, you must contact Brain Eaters Font Co. to aquire a commercial broadcast license at info@BrainEaters.com.\
+\
+If you plan to use this font for non-profit, not-for-profit, and charity design work, you may use any Brain Eaters Freeware fonts in your design work for no charge as long as you contact me about the project before using.\
+\
+Distribution and Copyright Info\
+This font, Bubbleman-FW, is freeware, but is not in the public domain (meaning it is still the property of Brain Eaters Font Co.). You have permission to redistribute this font as long as this ReadMe is included. If you include this font on a CD-ROM please send us a copy of it, you may contact us at info@BrainEaters.com for current postal mailing information.\
+\
+Many thanks. Please credit Brain Eaters Font Co. when you use our designs in your work. Send all other E-mail to: info@BrainEaters.com\
+\
+And finally! Please send me an E-mail saying where you picked up Bubbleman, I\'d5m always curious to know where these fonts end up. If your interested in other fonts from Brain Eaters Font Co. (Mac or PC) tell me, I\'d5ll send you samples.\
+ \
+www.FontDiner.com and/or www.BrainEaters.com }

@@ -1,0 +1,73 @@
+Flat-it’s The end user license agreement
+
+A) GENERAL:
+Please read this legal agreement(the “EULA”, “License” or “Agreement”) between the end user (“You” or “Licensee” ) and Flat-it carefully before purchasing, downloading, installing or using Flat-it Font Software (“Font” or “Software”). By installing or using the font, you are agreeing to be bound by the terms of this agreement.
+
+B) GRANT OF LICENSE:
+This Flat-it font, the design of the font embodied in it and the name of the font are the exclusive property of Flat-it, and all rights not granted to you herein are specifically reserved to Flat-it. This font is licensed, not sold to you, and this license does not transfer any right in the designs produced by the font, or in the font itself. The Flat-it font and all copies made of it remain the property of Flat-it. You are granted the non-exclusive, terminable and nontransferable right to use the font. The use of the font must be in accordance with the following terms and conditions.
+
+C) INSTALLATION AND NUMBER OF USERS:
+The maximum number of simultaneous users and installable devices(workstation and laptop, or portable device used as a substitute for a workstation type computer) is specified when the font was purchased by the licensee. The default number of both are five (5). All users must belong to the same company or household purchasing the font. You may install and use the font on a single file server for use on a single local area network (“LAN”) provided that the use of the font is limited to the users and the number of users authorized under this agreement.
+
+D) MULTI-USER LICENSE:
+Additional licensing is required if the font is being used by or being installed on more than the authorized number of users or devices as specified when the font was purchased. It is able to purchase multi-user license through most distributers at a discounted price.
+
+E) PERMISSIONS AND RESTRICTIONS:
+E1 - USE OF THE FONT
+You may use the font in the creation of static images, vector outlines, bitmaps and graphic files (e.g. GIF, JPG, PNG) for your personal and professional use in printings such as, but not limited to, book cover, logos, letterheads, business cards, business forms, banners, presentations, and artwork on clothed, toys and packaging that you or your clients are selling. And you may also use in the creation of rasterized images for web sites.
+
+E2 - THIRD PARTIES
+You may provide the font to a graphic designer, web designer, software designer, printer or other service bureau that is working on your behalf only if they agree to use the font exclusively for your work, agree to the terms of this license, and retain no copies of the font on completion of the work or purchase their own license for continued use of the font. You may not provide the font to these parties for any other purpose. You may not provide the font nor make it accessible to any other third parties.
+
+E3 - MODIFICATIONS
+You may import characters from the font as graphical objects into a drawing program and modify such graphical objects. You may modify the font solely for your own use. The modified font will be covered by the terms of this agreement. You may convert the font to other font format such as TTF and PS solely for your own use. The converted font will be covered by the terms of this agreement. The modified or converted font may not be sold or distributed. Under no circumstances will Flat-it be responsible to any end user, whether licensed, authorized or not, for the performance of any user modified or converted font nor will Flat-it support any user modified or converted font. Converting to web font format such as WOFF and EOT or using TTF with @font-face linking is not allowed. You may purchase web font license and can be provided web font service from most of distributors.
+
+E4 - BACK-UP
+You may make a single back-up copy of the font for archival purposes only. Upon termination of this agreement, you must destroy the original and any copies of the font.
+
+E5 - DOCUMENT EMBEDDING
+You may embed the font into PDF files provided that “subsetting” is employed to minimize as far as possible the number of the font characters being embedded and the document created is set to “Print and Preview” so that they cannot be edited, altered, enhanced or modified in any way or by any person other than an authorized user. You may also embed the font into other electronic documents (such as, but not limited to, MS Word, MS Powerpoint files and Flash) in “Print and Preview” format only. Editable embedding may requires an additional licensing for each recipient of the document and font files.
+
+E6 - WEB EMBEDDING
+A separate licensing is required in order to convert the font into any web font format (such as WOFF and EOT) for the purpose of embedding the font into internet web sites. You may purchase web font license and available web font cloud service from our partners.
+
+E7 - ePUB OR E-BOOK EMBEDDING
+Additional licensing is required in order to embed the font into commercial electronic publications (such as files of ePUB, AZW and PDF for commercial publications).
+
+E8 - SOFTWARE EMBEDDING
+You may embed the font into a single software or install the font on a web server provided that the end user cannot use the font to create something. Use of the font for uneditable part such as game title, end-title roll or menu button are permitted. Additional licensing is required in order to use the font as a part of server or browser-based software or service/product that can be editable, or available by the end user (e.g. graphics editing program such as Adobe CS or online personalized service such as a greeting card or a Flash game which can input user name by the font or screen display for unspecific purpose.)
+
+E9 - LETTERFORM PRODUCTS
+Additional licensing is required in order to use the font for a commercial product as the principal design element such as, but not limited to, stamps, magnets, stickers, stencil kits or digital product(e.g. clip arts, templates).
+
+E10 - PERSONALIZED PRODUCTS
+Additional licensing is required in order to use the font for personalized commercial products you or your customer sell using the font as a resource to create such as, but not limited to, individually customized T-shirts, greeting cards, mugs, stamps, stickers, invitations.
+
+E11 - BROADCAST
+For use in film, commercials or in television broadcasts such as, but not limited to, the use of the font to create titling, subtitle, or end-title roll, the terms of the license are limited to an annual broadcast season or the initial release and one country(except internet). Unless otherwise provided for, broadcast usage licensing must be renewed prior to following season (whether original or re-rerun, both foreign and domestic) to retain a valid license.
+
+F) PROHIBITIONS:
+You may not give away, resell nor distribute the font through any medium for a reason other than listed above unless you have written authorization from us to be a Flat-it distributor. You may not upload the font to public internet server nor make the font available for download except by licensed users for a reason other than listed above.
+
+G) TERMINATION:
+This agreement is effective until terminated. This agreement will terminate automatically without notice from Flat-it if you fail to comply with any provision contained herein. Upon termination, you must destroy all copies, modified copies of the font.
+
+H) DISCLAIMER AND LIMITED WARRANTY:
+Flat-it warrants the font to be free from defects in materials and workmanship under normal use for a period of thirty (30) days from the date of delivery as shown on your receipt. Flat-it's entire liability and your exclusive remedy as to defective font shall be, at Flat-it’s option, either return of purchase price or replacement of any such product that is returned to Flat-it with a copy of the invoice or send a new version of the font.
+
+Flat-it shall have no responsibility to replace the font or refund the purchase price if failure results from accident, abuse or misapplication, or if any fonts are lost or damaged due to theft, fire, or negligence. Any replacement product will be warranted for thirty (30) days. This warranty gives you specific legal rights. You may have other rights, which vary from state to state.
+
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE PRODUCT, IS PROVIDED “AS IS”. NEITHER FLAT-IT NOR THE DISTRIBUTOR MAKES ANY WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The entire risk as to the quality and performance of the product rests upon you. Neither Flat-it nor the distributor warrants that the functions contained in the product will meet your requirements or that the operation of the font will be uninterrupted or error free.
+
+NEITHER FLAT-IT NOR THE DISTRIBUTOR SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FROM LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE FONT EVEN IF DISTRIBUTOR OR THE FOUNDRY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+I) COPYRIGHT:
+The Flat-it font is copyrighted and contain proprietary information and trade secrets belonging to Flat-it. Unauthorized copying of the font even if modified, merged, or included with other software is expressly forbidden. You may be held legally responsible for any infringement of Flat-it’s intellectual property rights that is caused or encouraged by your failure to abide by the terms of this agreement.
+
+We recommend you keep a copy of this agreement for future reference.
+Please contact us or distributor to obtain additional license.
+http://flat-it.com
+info@flat-it.com
+EULA version 2.0; applicable from the purchase since April 2012.

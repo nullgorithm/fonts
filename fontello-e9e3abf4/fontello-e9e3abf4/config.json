@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "glyphs": [
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "thumbsup"
+      ],
+      "code": 59396,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "142263941b9f4cd4b2b84f1f4cd13b1d",
+      "css": "emo-thumbsup",
+      "orig_css": "emo-thumbsup",
+      "orig_code": 59396,
+      "src": "fontelico",
+      "from": 59396
+    }
+  ]
+}
